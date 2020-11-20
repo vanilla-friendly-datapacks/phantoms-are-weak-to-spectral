@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "hit_phantom": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:spectral_arrow"
+            },
+            "is_projectile": true
+          }
+        },
+        "entity": {
+          "type": "minecraft:phantom"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "zerotask:phantoms_are_weak_to_spectral/private/on_phantom_hit"
+  }
+}

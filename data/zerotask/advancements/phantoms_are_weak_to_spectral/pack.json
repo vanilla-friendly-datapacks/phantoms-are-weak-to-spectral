@@ -6,12 +6,12 @@
   },
   "display": {
     "announce_to_chat": false,
-    "description": "",
+    "description": "Fear the light!",
     "icon": {
-      "item": ""
+      "item": "minecraft:spectral_arrow"
     },
     "show_toast": false,
-    "title": ""
+    "title": "Phantoms are weak to spectral"
   },
   "parent": "global:zerotask"
 }

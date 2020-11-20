@@ -1,0 +1,2 @@
+advancement revoke @a only zerotask:phantoms_are_weak_to_spectral/has_been_hit_by_spectral_arrow
+schedule function zerotask:phantoms_are_weak_to_spectral/private/kill_phantom 1t
