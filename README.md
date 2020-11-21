@@ -12,4 +12,9 @@ I usually provide resourcepacks to allow translations of my datapacks :)
 
 The data pack is licensed under the GPLv3. For more information, take a look at the license file within this repository.
 
+## Inspiration
+
+I saw this feature in [TrueSurvival][truesurvival] and wanted to have it on my own server :)
+
 [latest]: https://github.com/vanilla-friendly-datapacks/REPLACE/releases/latest
+[truesurvival]: https://www.planetminecraft.com/data-pack/true-survival-a-hardcore-minecraft-experience/
