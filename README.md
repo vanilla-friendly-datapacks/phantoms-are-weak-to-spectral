@@ -16,5 +16,5 @@ The data pack is licensed under the GPLv3. For more information, take a look at 
 
 I saw this feature in [TrueSurvival][truesurvival] and wanted to have it on my own server :)
 
-[latest]: https://github.com/vanilla-friendly-datapacks/REPLACE/releases/latest
+[latest]: https://github.com/vanilla-friendly-datapacks/phantoms-are-weak-to-spectral/releases/latest
 [truesurvival]: https://www.planetminecraft.com/data-pack/true-survival-a-hardcore-minecraft-experience/
