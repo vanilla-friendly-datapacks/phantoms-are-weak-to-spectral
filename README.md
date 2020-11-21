@@ -8,6 +8,10 @@ Download the latest release from [here][latest] and put the datapack zip file in
 
 I usually provide resourcepacks to allow translations of my datapacks :)
 
+## Uninstallation
+
+The datapack doesn't create new scoreboards or new entities and thus an `uninstall` function is not needed.
+
 ## License
 
 The data pack is licensed under the GPLv3. For more information, take a look at the license file within this repository.
